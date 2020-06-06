@@ -5,5 +5,5 @@ end
 
 
 def batch_badge_creator(attendees)
-return badge_maker(attendees).join(, )
+return badge_maker(attendees)
 end
